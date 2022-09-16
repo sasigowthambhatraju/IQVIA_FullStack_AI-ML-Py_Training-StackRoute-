@@ -1,0 +1,1 @@
+print("Hello Welcome to Python AI/ML Full Stack Course.")

@@ -1,0 +1,6 @@
+Hello this is the basic text file where we are writing something in it.
+This actually works only in jupyter nootbook.
+If you wanna create a new file and then start writing in it you have to use with open then file name followed by w
+Where w is used to create a new file if does not exist, if the file is present then it will over-writes the original content with the content which is beeing written now.
+
+This is 5th line writing using append mode wher U already know append is used to insert the text at the end of file
